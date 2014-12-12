@@ -1,0 +1,2195 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 216,
+          "y": 150,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 141,
+          "text": "<div align=\"center\"><font color=\"#ffffff\">三阶盲拧</font><br><font color=\"#ffffff\">四步法</font><br></div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 775,
+          "y": 598,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#ffffff\">雨路<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 1000,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -1.28,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 76,
+      "y": 216
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 649,
+          "y": 275,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">编码<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 139,
+          "y": 245,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#ffffff\">楞块12个<br>角块08个<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 199,
+          "y": 517,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 43,
+          "text": "<font color=\"#ffffff\">推荐使用数字</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 223,
+          "y": 53,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 219,
+          "y": 173,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 43,
+          "text": "<font color=\"#ffffff\">中心轴定位</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 250,
+          "y": 124,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 43,
+          "text": "<font color=\"#ffffff\">黄顶蓝前<br></font>",
+          "selected": false
+        }
+      ],
+      "z": -1,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0.98,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": true,
+      "active": true,
+      "x": 374,
+      "y": 205
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 371,
+          "y": 39,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 180,
+          "text": "<br><font color=\"#ffffff\">F</font><br><font color=\"#ffffff\">&nbsp;</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 670,
+          "y": 172,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<font color=\"#ffffff\" face=\"Ubuntu\">角块<br>编码</font>",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 228,
+      "y": 284
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 200,
+          "y": 41,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 180,
+          "text": "<div align=\"center\"><font color=\"#ffffff\">2　　3</font><br><font color=\"#ffffff\">U</font><br><font color=\"#ffffff\">1　　4</font></div>",
+          "selected": false
+        }
+      ],
+      "z": 300,
+      "impScale": 1,
+      "rotateX": 1.05,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 226,
+      "y": 242
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 371,
+          "y": 39,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 180,
+          "text": "<br><font color=\"#ffffff\">F</font><br><font color=\"#ffffff\">&nbsp;</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 670,
+          "y": 172,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<font color=\"#ffffff\" face=\"Ubuntu\">角块<br>编码</font>",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 228,
+      "y": 284
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 201,
+          "y": 41,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 180,
+          "text": "<div align=\"center\"><font color=\"#ffffff\">5　　8</font><br><font color=\"#ffffff\">D</font><br><font color=\"#ffffff\">6　　7</font><br></div>",
+          "selected": false
+        }
+      ],
+      "z": 1,
+      "impScale": 1,
+      "rotateX": -1.05,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 225,
+      "y": 328
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 371,
+          "y": 39,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 180,
+          "text": "<br><font color=\"#ffffff\">F</font><br><font color=\"#ffffff\">&nbsp;</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 670,
+          "y": 172,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<font color=\"#ffffff\" face=\"Ubuntu\">角块<br>编码</font>",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 228,
+      "y": 284
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 367,
+          "y": 240,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 180,
+          "text": "<font color=\"#ffffff\">F<br>&nbsp;</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 670,
+          "y": 170,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<font color=\"#ffffff\" face=\"Ubuntu\">棱块<br>编码</font>",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 228,
+      "y": 106
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 201,
+          "y": 42,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 180,
+          "text": "<div align=\"center\"><font color=\"#ffffff\">3</font><br><font color=\"#ffffff\">2&nbsp;&nbsp; U&nbsp;&nbsp; 4</font><br><font color=\"#ffffff\">1</font><br></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 1.05,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 232,
+      "y": 71
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 367,
+          "y": 240,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 180,
+          "text": "<font color=\"#ffffff\">F<br>&nbsp;</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 670,
+          "y": 170,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<font color=\"#ffffff\" face=\"Ubuntu\">棱块<br>编码</font>",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 228,
+      "y": 106
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 200,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 180,
+          "text": "<div align=\"center\"><font color=\"#ffffff\">5</font><br><font color=\"#ffffff\">6&nbsp;&nbsp; D &nbsp; 8</font><br><font color=\"#ffffff\">7</font><br></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": -1.05,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 232,
+      "y": 142
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 367,
+          "y": 240,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 180,
+          "text": "<font color=\"#ffffff\">F<br>&nbsp;</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 670,
+          "y": 170,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<font color=\"#ffffff\" face=\"Ubuntu\">棱块<br>编码</font>",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 228,
+      "y": 106
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 200,
+          "y": 42,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 180,
+          "text": "<div align=\"center\"><font color=\"#ffffff\">A　　B</font><br><font color=\"#ffffff\">E</font><br><font color=\"#ffffff\">0　　9</font></div>",
+          "selected": false
+        }
+      ],
+      "z": 1,
+      "impScale": 1,
+      "rotateX": 1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 232,
+      "y": 105
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">复原</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 394,
+          "y": 236,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 141,
+          "text": "<font color=\"#ffffff\" face=\"Ubuntu\">色相/位置<br></font><div align=\"center\"><font color=\"#ffffff\" face=\"Ubuntu\">角/楞<br>奇偶转换<br></font></div>",
+          "selected": false
+        }
+      ],
+      "z": -1,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": -1.04,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 485,
+      "y": 208
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">色相</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 460,
+          "y": 169,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#ffffff\" face=\"Ubuntu\">调整角/楞朝向<br><br>不同规定影响<br><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 562,
+          "y": 449,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#ffffff\" face=\"Ubuntu\">Setup<br>交换滴位置<br></font>",
+          "selected": false
+        }
+      ],
+      "z": -1,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 675,
+      "y": 115
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">色相分级</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 340,
+          "y": 314,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#ffffff\"><font color=\"#fff800\">U</font>/D <br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 596,
+          "y": 312,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#ffffff\">高级 <br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 399,
+          "y": 441,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#ffffff\"><font color=\"#0a00ff\">F</font>/<font color=\"#aee00a\"><font color=\"#36ff00\">B</font> </font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 600,
+          "y": 441,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#ffffff\">中级<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 430,
+          "y": 546,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#ffffff\"><font color=\"#ff6c00\">L</font>/<font color=\"#ed1010\">R</font> <br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 611,
+          "y": 546,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#ffffff\">低级 <br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 844,
+      "y": 65
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">色相认定</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 278,
+          "y": 314,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div align=\"center\"><font color=\"#ffffff\">较高级朝向的颜色</font><br><font color=\"#ffffff\">高于</font><br><font color=\"#ffffff\">较低级朝向的颜色</font><br><font color=\"#ffffff\">即正确</font><br></div>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 845,
+      "y": 150
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\"><a href=\"http://alg.cubing.net/?setup=x2-z2-_D2-_(U_R_U-_R-)2_D_(U_R_U-_R-)2_D_(U_R_U-_R-)2_z2-%0AzD2-_(R_U_R-_U-)_(R_U_R-)_D2-_(R_U-_R-)_(U_R_U-_R-)_z-%0AD_(R_U_R-_U-)_(R_U_R-)_D-_(R_U-_R-)_(U_R_U-_R-)%0A(R_U_R-_U-)2_(U_R_U-_R-)2&amp;alg=(R_U_R-_U-)2_(U_R_U-_R-)2%0A(R_U_R-_U-)(R_U_R-_)_D(R_U-_R-)(U_R_U-_R-)_D-_%0Az(R_U_R-_U-)(R_U_R-_)_D2(R_U-_R-)(U_R_U-_R-)_D2z-%0Az2(R_U_R-_U-)2_D-_(R_U_R-_U-)2_D-(R_U_R-_U-)2_D2_\">角块色相</a></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 146,
+          "y": 336,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">&nbsp;<font color=\"#fff800\">U</font>/D颜色朝↑↓<font color=\"#333333\">===</font>√<br>&nbsp;<font color=\"#f0ff00\">U</font>/D颜色朝←→x .<font color=\"#333333\">==</font>× &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <br></font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 633,
+          "y": 87,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">↑↓朝向高<br><br></font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 1,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 944,
+      "y": 66
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">角块色相</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 201,
+          "y": 217,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">DFR:&nbsp; 缓冲&nbsp; <br></font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 206,
+          "y": 522,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">8顺5逆:&nbsp; <br><font color=\"#333333\">===</font>(R U R' U')2 D(U R U' R')2D'&nbsp;&nbsp;&nbsp; <br></font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 344,
+          "y": 220,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\"><br>顺&nbsp;&nbsp; (R U R' U')2<br>逆&nbsp;&nbsp; (U R U' R')2 &nbsp;&nbsp; <br></font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": -1,
+      "impScale": 1.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 1041,
+      "y": 67
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 345,
+          "y": 216,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">(R U R' U')(R U R' <font color=\"#333333\">U'</font>) D<br>(<font color=\"#333333\">U </font>R U' R')(U R U' R') D' &nbsp;&nbsp; <br></font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 23.882095757441608,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<a href=\"http://alg.cubing.net/?setup=x2(R_U_R-_U-)(R_U_R-_U-)_D_(U_R_U-_R-)(U_R_U-_R-)_D-(R_U_R-_U-)(R_U_R-_U-)_D(U_R_U-_R-)(U_R_U-_R-)_D-&amp;alg=(R_U_R-_U-)(R_U_R-)_D(R_U-_R-)(U_R_U-_R-)_D-&amp;view=playback\"><font color=\"#ffffff\">角块色相</font></a>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 341,
+          "y": 344,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">(R U R' U')(R U R' <font color=\"#333333\">U'</font>) D2<br>(<font color=\"#333333\">U </font>R U' R )(U R U' R') D2 &nbsp; <br></font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 339,
+          "y": 489,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<a href=\"http://alg.cubing.net/?setup=x2_D2-_(U_R_U-_R-)2_D_(U_R_U-_R-)2_D_(U_R_U-_R-)2&amp;type=alg&amp;alg=(R_U_R-_U-)2_D-(R_U_R-_U-)2_D-(R_U_R-_U-)2_D2&amp;view=playback\"><font color=\"#ffffff\">(R U R' U')2 D'<br>(R U R' U')2 D' <br>(R U R' U')2 D2 <br></font></a>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 136,
+          "y": 224,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">8顺5逆:&nbsp;&nbsp;&nbsp; <br></font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 146,
+          "y": 344,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">8顺6逆: &nbsp; <br></font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 143,
+          "y": 500,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<a href=\"http://alg.cubing.net/?setup=x2_D2-_(U_R_U-_R-)2_D_(U_R_U-_R-)2_D_(U_R_U-_R-)2&amp;type=alg&amp;alg=(R_U_R-_U-)2_D-(R_U_R-_U-)2_D-(R_U_R-_U-)2_D2&amp;view=playback\"><font color=\"#ffffff\">678顺:&nbsp; <br></font></a>",
+          "size": 48,
+          "selected": false
+        }
+      ],
+      "z": -3,
+      "impScale": 1.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 1145,
+      "y": 67
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<a href=\"http://alg.cubing.net/?setup=D2_U-_R2_U_F2_D2_U-_R2_U-_B-_L2_R-_B-_D2_U_B2_L-_D-_R2_x2%0Az_(M-U)3_U(MU)3U_z&amp;type=reconstruction&amp;title=Mats%20Valk,%205.55%20%3D%20%3D%20&amp;alg=z2_(M-U)3_U(MU)3U_z2%0AF-BL(M-U)4_(MU)4__L-B-F\"><font color=\"#ffffff\">楞块色相</font></a>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 564,
+          "y": 554,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">&nbsp; x . &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; √<br>&nbsp; ←→ &nbsp; &nbsp; &nbsp; &nbsp; × <br></font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 636,
+          "y": 74,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">↑↓朝向高<br><br></font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 567,
+          "y": 313,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">↑↓&nbsp; &nbsp; &nbsp; &nbsp;    √<br>←→x . &nbsp;&nbsp;&nbsp; × &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <br></font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 22,
+          "y": 222,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#ffffff\">U/D层</font>",
+          "selected": false,
+          "rotate": -0.42
+        },
+        {
+          "TextBox": {},
+          "x": 30,
+          "y": 489,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#ffffff\">E层</font>",
+          "selected": false,
+          "rotate": -0.42
+        },
+        {
+          "TextBox": {},
+          "x": 200,
+          "y": 357,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 68,
+          "text": "<font color=\"#ffffff\">&nbsp;较高颜色朝</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 204,
+          "y": 601,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 68,
+          "text": "<font color=\"#ffffff\">&nbsp;较高颜色朝</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 947,
+      "y": 151
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">楞块色相</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 205,
+          "y": 289,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">(M'U)×3U&nbsp; (MU)×3U <br><br>(R' U2) (R'2 U R' U')(R' U2) (r U R U')r'<br><br>(M'U)×4 (MU)×4&nbsp; <br></font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "src": "http://www.rubik.com.cn/newimage/blind/edgeflip1.gif",
+          "type": "Image",
+          "x": 66,
+          "y": 266,
+          "scale": {
+            "x": 0.37337662337662325,
+            "y": 0.34769463340891915,
+            "width": 114.99999999999996,
+            "height": 107.0899470899471
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "src": "http://www.rubik.com.cn/newimage/blind/edgeflip2.gif",
+          "type": "Image",
+          "x": 65,
+          "y": 390,
+          "scale": {
+            "x": 0.37012987012987003,
+            "y": 0.3425670074606245,
+            "width": 113.99999999999997,
+            "height": 105.51063829787235
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "src": "http://www.rubik.com.cn/newimage/blind/edgeflip3.gif",
+          "type": "Image",
+          "x": 66,
+          "y": 509,
+          "scale": {
+            "x": 0.3733766233766235,
+            "y": 0.35714285714285726,
+            "width": 115.00000000000003,
+            "height": 110.00000000000004
+          },
+          "imageType": "GIF",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "x": 1050,
+      "y": 151
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">你不能做的事<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 195,
+          "y": 344,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">&nbsp;转动中级层仅90°&nbsp; &nbsp; &nbsp;&nbsp; <br></font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 30,
+          "y": 257,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#ffffff\">棱块</font>",
+          "selected": false,
+          "rotate": -0.42
+        },
+        {
+          "TextBox": {},
+          "x": 194,
+          "y": 560,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">&nbsp;转动中低级层仅90°&nbsp; &nbsp; &nbsp;&nbsp; <br></font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 29,
+          "y": 473,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#ffffff\">角块</font>",
+          "selected": false,
+          "rotate": -0.42
+        }
+      ],
+      "z": 0,
+      "impScale": 1.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 1159,
+      "y": 150
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">位置</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 346,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#ffffff\" face=\"Ubuntu\">Setup限制<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 346,
+          "y": 359,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#ffffff\">小循环<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 350,
+          "y": 458,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#ffffff\">奇偶转换</font>",
+          "selected": false
+        }
+      ],
+      "z": -1,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "x": 676,
+      "y": 313
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 23.882095757441608,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">角块位置<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 358,
+          "y": 305,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">x'(R U'R) D2 (R'U R) D2 R2 x<br></font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 356,
+          "y": 510,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">x' R2 D2(R' U' R) D2(R' U R') x <br></font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "src": "http://www.rubik.com.cn/newimage/blind/pllcorner1.gif",
+          "type": "Image",
+          "x": 143,
+          "y": 464,
+          "scale": {
+            "x": 0.4537313432835821,
+            "y": 0.4421364985163205,
+            "width": 152,
+            "height": 149
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "src": "http://www.rubik.com.cn/newimage/blind/pllcorner2.gif",
+          "type": "Image",
+          "x": 143,
+          "y": 265,
+          "scale": {
+            "x": 0.44477611940298506,
+            "y": 0.4391691394658754,
+            "width": 149,
+            "height": 148
+          },
+          "imageType": "GIF",
+          "selected": false
+        }
+      ],
+      "z": -3,
+      "impScale": 1.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 24,
+      "selected": false,
+      "active": false,
+      "x": 845,
+      "y": 274
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 23.882095757441608,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">角块位置+<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 341,
+          "y": 245,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">(R' F'R2 F R U2)2<br>&nbsp;&nbsp; 解决所有立体三循环<br></font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 353,
+          "y": 518,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">(L2 U R2 U')2<br>&nbsp; &nbsp;&nbsp; 解决异层三循环 <br></font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "src": "http://www.rubik.com.cn/newimage/blind/pllcorner3.gif",
+          "type": "Image",
+          "x": 100,
+          "y": 215,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "src": "http://www.rubik.com.cn/newimage/blind/pllcorner9.gif",
+          "type": "Image",
+          "x": 100,
+          "y": 449,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "GIF",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 25,
+      "selected": false,
+      "active": false,
+      "x": 949,
+      "y": 275
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 23.882095757441608,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">角块位置SetUp<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 125,
+          "y": 236,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font color=\"#ffffff\">U/B/L2/R2/F2/B2</font>",
+          "selected": false
+        },
+        {
+          "src": "http://www.rubik.com.cn/newimage/blind/pllcorner2.gif",
+          "type": "Image",
+          "x": 91,
+          "y": 439,
+          "scale": {
+            "x": 0.44477611940298506,
+            "y": 0.4391691394658754,
+            "width": 149,
+            "height": 148
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 291,
+          "y": 424,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#ffffff\">同层用U<br>异层至7<br>R2到4<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 720,
+          "y": 426,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#ffffff\">同层用U<br>异层至7<br>B2到2<br></font>",
+          "selected": false
+        },
+        {
+          "src": "http://www.rubik.com.cn/newimage/blind/pllcorner1.gif",
+          "type": "Image",
+          "x": 532,
+          "y": 433,
+          "scale": {
+            "x": 0.4537313432835821,
+            "y": 0.4421364985163205,
+            "width": 152,
+            "height": 149
+          },
+          "imageType": "GIF",
+          "selected": false,
+          "rotate": 3.14
+        }
+      ],
+      "z": -3,
+      "impScale": 1.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 26,
+      "selected": false,
+      "active": false,
+      "x": 1061,
+      "y": 276
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 23.882095757441608,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">位置编码<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 409,
+          "y": 419,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#ffffff\" face=\"Ubuntu\">小循环起始处<br>首末都编码<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 610,
+          "y": 89,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#ffffff\">两个一组</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 410,
+          "y": 328,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#ffffff\">缓冲位置不编码 <br></font>",
+          "selected": false
+        }
+      ],
+      "z": -3,
+      "impScale": 1.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 27,
+      "selected": false,
+      "active": false,
+      "x": 1164,
+      "y": 274
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 23.882095757441608,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">小循环<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 337,
+          "y": 209,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#ffffff\">缓冲位置还原<br>移到未还原的位置<br> </font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 28,
+      "selected": false,
+      "active": false,
+      "x": 1255,
+      "y": 274
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 23.882095757441608,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">编码范例<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 137,
+          "y": 238,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<a href=\"http://alg.cubing.net/?stage=PLL&amp;type=alg&amp;setup=(yx-)R_U-_R-_D_R_U_R-_D-_R_U_R-_D_R_U-_R-_D-_(x2)R_U-_R-_D_R_U_R-_D-_R_U_R-_D_R_U-_R-_D-(xy)&amp;view=playback\"><font color=\"#ffffff\">(yx')R U' R' D R U R' D' R U R' D R U' R' D' (x2)</font></a><br><a href=\"http://alg.cubing.net/?stage=PLL&amp;type=alg&amp;setup=(yx-)R_U-_R-_D_R_U_R-_D-_R_U_R-_D_R_U-_R-_D-_(x2)R_U-_R-_D_R_U_R-_D-_R_U_R-_D_R_U-_R-_D-(xy)&amp;view=playback\"><font color=\"#ffffff\">R U' R' D R U R' D' R U R' D R U' R' D'(xy)<br> </font></a>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 609,
+          "y": 115,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#ffffff\">上下EPerm<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 205,
+          "y": 426,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 68,
+          "text": "<font color=\"#ffffff\">(<font color=\"#5e5555\">1</font>4<font color=\"#5e5555\">1</font>)(23<font color=\"#c7c0c0\">2</font>)(58<font color=\"#9f9393\">5</font>)(67<font color=\"#c7c0c0\">6</font>)</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 216,
+          "y": 531,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 69,
+          "text": "<font color=\"#ffffff\">42 32 58 56 76 <br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 29,
+      "selected": false,
+      "active": false,
+      "x": 1257,
+      "y": 339
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 23.882095757441608,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">楞块位置<br></font>",
+          "selected": false
+        },
+        {
+          "src": "http://www.rubik.com.cn/newimage/blind/plledge1.gif",
+          "type": "Image",
+          "x": 101,
+          "y": 216,
+          "scale": {
+            "x": 0.6149253731343284,
+            "y": 0.5311572700296736,
+            "width": 206,
+            "height": 179
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "src": "http://www.rubik.com.cn/newimage/blind/plledge2.gif",
+          "type": "Image",
+          "x": 100,
+          "y": 438,
+          "scale": {
+            "x": 0.6298507462686568,
+            "y": 0.5964391691394658,
+            "width": 211.00000000000003,
+            "height": 200.99999999999997
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 341,
+          "y": 273,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">(R U ' R) U (R U R U') (R' U' R2)<br></font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 329,
+          "y": 515,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">(R'2 U)(R U R' U') (R' U')(R' U R')</font>",
+          "size": 48,
+          "selected": false
+        }
+      ],
+      "z": -3,
+      "impScale": 1.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 30,
+      "selected": false,
+      "active": false,
+      "x": 844,
+      "y": 346
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 23.882095757441608,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">楞块位置+<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 287,
+          "y": 541,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">可以在低级面做公式？<br></font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 324,
+          "y": 290,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#ffffff\">53&nbsp;&nbsp; M'U2MU2<br>35&nbsp;&nbsp; U2M'U2M<br></font>",
+          "selected": false
+        }
+      ],
+      "z": -3,
+      "impScale": 1.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 31,
+      "selected": false,
+      "active": false,
+      "x": 952,
+      "y": 342
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 76.00874424698529,
+          "y": 28.353712727675173,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">楞块位置SetUp<br></font>",
+          "selected": false
+        },
+        {
+          "src": "http://www.rubik.com.cn/newimage/blind/plledge1.gif",
+          "type": "Image",
+          "x": 180,
+          "y": 339,
+          "scale": {
+            "x": 0.6149253731343284,
+            "y": 0.5311572700296736,
+            "width": 206,
+            "height": 179
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 435,
+          "y": 336,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">同层用U<br>异层到6/8<br>L2/R2到2/4<br></font>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 443,
+          "y": 550,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">使用b/F做SetUp？<br></font>",
+          "size": 48,
+          "selected": false
+        }
+      ],
+      "z": -3,
+      "impScale": 1.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 32,
+      "selected": false,
+      "active": false,
+      "x": 1061,
+      "y": 340
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 67,
+          "y": 28,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">奇偶转换</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 213.64628727232483,
+          "y": 261.99562787650734,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#ffffff\">(RUR'U')(R'F)(R2U'R'U')(RUR'F')&nbsp;&nbsp; &nbsp;<br>&nbsp; <br></font>",
+          "selected": false
+        },
+        {
+          "src": "http://www.rubik.com.cn/newimage/blind/pll8.gif",
+          "type": "Image",
+          "x": 51,
+          "y": 273,
+          "scale": {
+            "x": 2.090909090909091,
+            "y": 1.9242424242424243,
+            "width": 138,
+            "height": 127
+          },
+          "imageType": "GIF",
+          "selected": false
+        },
+        {
+          "src": "http://www.rubik.com.cn/newimage/blind/pll8.gif",
+          "type": "Image",
+          "x": 168,
+          "y": 508,
+          "scale": {
+            "x": 3.0454545454545454,
+            "y": 2.8027009222661396,
+            "width": 201,
+            "height": 184.97826086956522
+          },
+          "imageType": "GIF",
+          "selected": false,
+          "rotate": 1.57
+        },
+        {
+          "TextBox": {},
+          "x": 401,
+          "y": 504,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#ffffff\">在棱编码后加3<br>&nbsp;&nbsp;&nbsp;&nbsp; 角编码后加4<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 化为公式T<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 244,
+          "y": 343,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#ffffff\">SetUp楞3角4如何？<br></font>",
+          "selected": false
+        }
+      ],
+      "z": -3,
+      "impScale": 1.5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 33,
+      "selected": false,
+      "active": false,
+      "x": 1164,
+      "y": 337
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 137,
+          "text": "<font color=\"#ffffff\">记忆</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 396,
+          "y": 232,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 141,
+          "text": "<font color=\"#ffffff\" face=\"Ubuntu\">空间记忆<br></font><div align=\"center\"><font color=\"#ffffff\" face=\"Ubuntu\">身体记忆<br>编码记忆<br></font></div>",
+          "selected": false
+        }
+      ],
+      "z": -1,
+      "impScale": 3,
+      "rotateX": 1.04,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 34,
+      "selected": false,
+      "active": false,
+      "x": 430,
+      "y": 347
+    }
+  ],
+  "background": "bg-transparent",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 649,
+        "y": 275,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 137,
+        "text": "<font color=\"#ffffff\">编码<br></font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 139,
+        "y": 245,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 96,
+        "text": "<font color=\"#ffffff\">楞块12个<br>角块08个<br></font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 199,
+        "y": 517,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 43,
+        "text": "<font color=\"#ffffff\">推荐使用数字</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 223,
+        "y": 53,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 96,
+        "text": "<br>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 219,
+        "y": 173,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 43,
+        "text": "<font color=\"#ffffff\">中心轴定位</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 250,
+        "y": 124,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 43,
+        "text": "<font color=\"#ffffff\">黄顶蓝前<br></font>",
+        "selected": false
+      }
+    ],
+    "z": -1,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0.98,
+    "rotateZ": 0,
+    "index": 1,
+    "selected": true,
+    "active": true,
+    "x": 374,
+    "y": 205
+  },
+  "fileName": "BLD.strut",
+  "surface": "bg-surf-grad-black",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  }
+}
